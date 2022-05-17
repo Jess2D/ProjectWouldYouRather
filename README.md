@@ -8,7 +8,7 @@ Answering "neither" or "both" is against the rules.
 
 In this app, users will be able to answer questions, see which questions they haven’t answered, see how other people have voted, post questions, and see the ranking of users on the leaderboard.
 
-![alt cover](https://github.com/Jess2D/ProjectWouldYouRather/blob/main/assets/concept/cover.png)
+![alt cover](https://github.com/Jess2D/ProjectWouldYouRather/tree/main/src/assets/conceptcover.png)
 
 ## App Features
 

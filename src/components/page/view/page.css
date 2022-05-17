@@ -5,8 +5,55 @@ h1 {
   font-size: 56px;
 }
 
-.App-header {
+.app-header {
   border-bottom-style: solid;
   border-color: #99b0a8;
-  text-align: center;
+}
+
+.page-content {
+  flex: 1;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  background-image: url("../../../assets/img/bg/sidebar.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 28px;
+  height: 100vh;
+}
+.avatar img {
+  width: 340px;
+}
+
+.user-greetings {
+  font-size: 31px;
+  color: #046186;
+}
+
+.menu {
+  color: #a6418b;
+  font-size: 31px;
+}
+
+.menu ul {
+  list-style: none;
+}
+.icon img {
+  width: 53px;
+}
+
+li {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  gap: 49px;
+  align-items: center;
+  padding: 20px;
 }

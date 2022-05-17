@@ -1,0 +1,12 @@
+h1 {
+  color: #049dd9;
+  font-family: "Raleway", sans-serif;
+  line-height: 61.6px;
+  font-size: 56px;
+}
+
+.App-header {
+  border-bottom-style: solid;
+  border-color: #99b0a8;
+  text-align: center;
+}

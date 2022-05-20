@@ -23,10 +23,8 @@ h1 {
   flex-direction: column;
   gap: 21px;
   background-image: url("../../../assets/img/bg/sidebar.png");
-  background-size: cover;
-  background-repeat: no-repeat;
   padding: 28px;
-  height: 100vh;
+  height: 100%;
 }
 .avatar img {
   width: 340px;
